@@ -1,4 +1,4 @@
-<h1>💫 Sobre mim:</h1>
+<h1>🐱‍💻 Sobre mim:</h1>
   Desenvolvedor Front-end <br>
   Atualmente estudo e desenvolvo projetos pessoais, estou em busca de minha primeira oportunidade!
 
