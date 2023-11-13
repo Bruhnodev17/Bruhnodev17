@@ -2,7 +2,7 @@
   Desenvolvedor Front-end <br>
   Atualmente estudo e desenvolvo projetos pessoais, estou em busca de minha primeira oportunidade!
 
-  <h3>🌐 Redes Sociais:</h3>
+  # 🌐 Redes Sociais:
 
   <a href="https://www.linkedin.com/in/manoel-bruno-dev">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -12,6 +12,9 @@
 
 
 # 📊 GitHub Stats:
+
+[![Manoel GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruhnodev17)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruhnodev17&layout=pie)](https://github.com/anuraghazra/github-readme-stats) <br>
+![](https://komarev.com/ghpvc/?username=Bruhnodev17)
 
   
 
