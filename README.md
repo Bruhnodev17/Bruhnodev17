@@ -1,5 +1,4 @@
-<h1>🐱‍💻 About Me:</h1>
-  Desenvolvedor Front-end <br>
+<h1>🐱‍💻 About Me:</h1> 
   Atualmente estudo e desenvolvo projetos pessoais, com o objetivo de ampliar meu portifólio e conhecimentos!
 
   # 🌐 Social Media:
