@@ -1,7 +1,10 @@
 <h1>🐱‍💻 About Me:</h1> 
-  Atualmente estudo e desenvolvo projetos pessoais, com o objetivo de ampliar meu portifólio e conhecimentos!
-
-  # 🌐 Social Media:
+👨🏻‍💻 Desenvolvedor Frontend/Mobile <br>
+🎓 Graduando em Análise e Desenvolvimento de Sistemas <br>
+💻 Stack: TypeScript, Angular, React Native, PHP, Laravel e PostgreSQL <br>
+⚙️ Desenvolvendo projeto em TypeScript e React Native <br>
+📧 manoelbrunop17@gmail.com <br><br>
+  # 🌐 Social Media:<br><br>
 
   <a href="https://www.linkedin.com/in/manoel-bruno-dev" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
