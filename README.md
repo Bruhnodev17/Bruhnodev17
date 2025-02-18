@@ -1,8 +1,7 @@
 <h1>🐱‍💻 About Me:</h1> 
 👨🏻‍💻 Desenvolvedor Frontend/Mobile <br>
 🎓 Graduando em Análise e Desenvolvimento de Sistemas <br>
-💻 Stack: TypeScript, Angular, React Native, PHP, Laravel e PostgreSQL <br>
-⚙️ Desenvolvendo projeto em TypeScript, React, Express, MongoDB e Docker <br>
+💻 Stack: TypeScript e React Native <br>
 📧 manoelbrunop17@gmail.com <br><br>
   # 🌐 Social Media:<br><br>
 
